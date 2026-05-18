@@ -1,9 +1,16 @@
 {
+  "Guidepost-14": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
   "Peak-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 0,
+    "x": 14,
     "y": 0
   }
 }
