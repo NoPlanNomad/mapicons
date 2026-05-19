@@ -5,43 +5,43 @@
     "https://stac-extensions.github.io/projection/v2.0.0/schema.json",
     "https://stac-extensions.github.io/eo/v2.0.0/schema.json"
   ],
-  "id":"3_no_ice_clouds_8k.jpg",
+  "id":"4_no_ice_clouds_mts_8k.jpg",
   "type":"Feature",
   "bbox":[
-    -180.0,
-    -90.0,
-    180.0,
-    90.0
+    0.0,
+    -4096.0,
+    8192.0,
+    0.0
   ],
   "geometry":{
     "type":"Polygon",
     "coordinates":[
       [
         [
-          -180.0,
-          -90.0
+          0.0,
+          -4096.0
         ],
         [
-          -180.0,
-          90.0
+          0.0,
+          0.0
         ],
         [
-          180.0,
-          90.0
+          8192.0,
+          0.0
         ],
         [
-          180.0,
-          -90.0
+          8192.0,
+          -4096.0
         ],
         [
-          -180.0,
-          -90.0
+          0.0,
+          -4096.0
         ]
       ]
     ]
   },
   "properties":{
-    "datetime":"2026-05-19T11:57:40Z",
+    "datetime":"2026-05-19T13:46:04Z",
     "start_datetime":"0001-01-01T00:00:00.000Z",
     "end_datetime":"9999-12-31T23:59:59.999Z",
     "tiles:tile_matrix_sets":{
@@ -51,25 +51,25 @@
         "identifier":"raster",
         "boundingBox":{
           "type":"BoundingBoxType",
-          "crs":"",
+          "crs":"GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4326\"]]",
           "lowerCorner":[
-            -180.02197265625,
-            -89.97802734375
+            0.0,
+            -4096.0
           ],
           "upperCorner":[
-            179.97802734375,
-            90.02197265625
+            8192.0,
+            0.0
           ]
         },
-        "supportedCRS":"",
+        "supportedCRS":"GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4326\"]]",
         "tileMatrix":[
           {
             "type":"TileMatrixType",
             "identifier":"0",
-            "scaleDenominator":5022.3214285714294,
+            "scaleDenominator":114285.71428571429,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -79,10 +79,10 @@
           {
             "type":"TileMatrixType",
             "identifier":"1",
-            "scaleDenominator":2511.1607142857147,
+            "scaleDenominator":57142.857142857145,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -92,10 +92,10 @@
           {
             "type":"TileMatrixType",
             "identifier":"2",
-            "scaleDenominator":1255.5803571428573,
+            "scaleDenominator":28571.428571428572,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -105,10 +105,10 @@
           {
             "type":"TileMatrixType",
             "identifier":"3",
-            "scaleDenominator":627.79017857142867,
+            "scaleDenominator":14285.714285714286,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -118,10 +118,10 @@
           {
             "type":"TileMatrixType",
             "identifier":"4",
-            "scaleDenominator":313.89508928571433,
+            "scaleDenominator":7142.8571428571431,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -131,10 +131,10 @@
           {
             "type":"TileMatrixType",
             "identifier":"5",
-            "scaleDenominator":156.94754464285717,
+            "scaleDenominator":3571.4285714285716,
             "topLeftCorner":[
-              -180.02197265625,
-              90.02197265625
+              0.0,
+              0.0
             ],
             "tileWidth":256,
             "tileHeight":256,
@@ -187,17 +187,18 @@
         }
       }
     },
+    "proj:code":"EPSG:4326",
     "proj:shape":[
       4096,
       8192
     ],
     "proj:transform":[
-      0.0439453125,
+      1.0,
       0.0,
-      -180.02197265625,
       0.0,
-      -0.0439453125,
-      90.02197265625,
+      0.0,
+      -1.0,
+      0.0,
       0.0,
       0.0,
       0.0
