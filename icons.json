@@ -1,8 +1,8 @@
 {
-  "Bare_rock-125": {
-    "height": 125,
+  "Bare_rock-126": {
+    "height": 126,
     "pixelRatio": 1,
-    "width": 125,
+    "width": 126,
     "x": 0,
     "y": 0
   },
@@ -10,21 +10,21 @@
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 125,
+    "x": 126,
     "y": 0
   },
   "Peak-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 125,
+    "x": 126,
     "y": 14
   },
   "Saddle-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 125,
+    "x": 126,
     "y": 22
   }
 }
