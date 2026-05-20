@@ -10,21 +10,28 @@
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 126,
+    "x": 158,
     "y": 0
   },
   "Peak-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 126,
-    "y": 14
+    "x": 172,
+    "y": 0
   },
   "Saddle-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
+    "x": 180,
+    "y": 0
+  },
+  "iwn_rectangle": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 32,
     "x": 126,
-    "y": 22
+    "y": 0
   }
 }
