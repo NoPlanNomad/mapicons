@@ -1,37 +1,72 @@
 {
-  "Bare_rock-126": {
-    "height": 126,
-    "pixelRatio": 1,
-    "width": 126,
-    "x": 0,
-    "y": 0
-  },
   "Guidepost-14": {
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 158,
+    "x": 852,
     "y": 0
   },
   "Peak-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 172,
+    "x": 866,
     "y": 0
   },
   "Saddle-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 180,
+    "x": 874,
     "y": 0
+  },
+  "alpine_hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 0,
+    "y": 0
+  },
+  "demanding_alpine_hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 410,
+    "y": 0
+  },
+  "demanding_mountain_hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 0,
+    "y": 264
+  },
+  "difficult_alpine_hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 410,
+    "y": 264
+  },
+  "hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 0,
+    "y": 528
   },
   "iwn_rectangle": {
     "height": 18,
     "pixelRatio": 1,
     "width": 32,
-    "x": 126,
+    "x": 820,
     "y": 0
+  },
+  "mountain_hiking": {
+    "height": 264,
+    "pixelRatio": 1,
+    "width": 410,
+    "x": 410,
+    "y": 528
   }
 }
