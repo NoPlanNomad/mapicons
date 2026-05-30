@@ -3,70 +3,70 @@
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 852,
-    "y": 0
+    "x": 0,
+    "y": 48
   },
   "Peak-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 866,
-    "y": 0
+    "x": 24,
+    "y": 18
   },
   "Saddle-8": {
     "height": 8,
     "pixelRatio": 1,
     "width": 8,
-    "x": 874,
-    "y": 0
+    "x": 14,
+    "y": 48
   },
   "alpine_hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
-    "x": 0,
+    "width": 24,
+    "x": 32,
     "y": 0
   },
   "demanding_alpine_hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
-    "x": 410,
-    "y": 0
+    "width": 24,
+    "x": 32,
+    "y": 15
   },
   "demanding_mountain_hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
+    "width": 24,
     "x": 0,
-    "y": 264
+    "y": 18
   },
   "difficult_alpine_hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
-    "x": 410,
-    "y": 264
+    "width": 24,
+    "x": 24,
+    "y": 30
   },
   "hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
+    "width": 24,
     "x": 0,
-    "y": 528
+    "y": 33
   },
   "iwn_rectangle": {
     "height": 18,
     "pixelRatio": 1,
     "width": 32,
-    "x": 820,
+    "x": 0,
     "y": 0
   },
   "mountain_hiking": {
-    "height": 264,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 410,
-    "x": 410,
-    "y": 528
+    "width": 24,
+    "x": 24,
+    "y": 45
   }
 }
